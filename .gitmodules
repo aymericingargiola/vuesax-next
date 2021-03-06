@@ -1,0 +1,3 @@
+[submodule "packages/docs/.vuepress/dist"] 
+  path = packages/docs/.vuepress/dist 
+  url = git:github.com/lusaxweb/vuesax-next
